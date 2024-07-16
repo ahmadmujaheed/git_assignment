@@ -260,4 +260,36 @@ header{
     font-size: 10px;
 }
 
+.contacts ul{
+    margin-top: 30px;
+    display: flex;
+    /* align-items: center; */
+    justify-content:center;
+    gap: 330px
+    
+}
+
+.contacts_text ul{
+    margin-top: 10px;
+    display: flex;
+    font-weight: 500;
+    
+}
+
+.contacts_text ul li:nth-child(1){
+    padding-left: 310px
+   
+}
+
+.contacts_text ul li:nth-child(2){
+    padding-left: 300px;
+   
+}
+
+.contacts_text ul li:nth-child(3){
+    padding-left: 220px
+   
+}
+
+
 
