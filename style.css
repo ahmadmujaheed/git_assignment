@@ -248,4 +248,16 @@ header{
     font-size: 10px;
 }
 
+.section_nine_text{
+    margin-top:50px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.section_nine_text p{
+    margin-top: 10px;
+    font-size: 10px;
+}
+
 
