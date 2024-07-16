@@ -220,3 +220,32 @@ header{
 
 }
 
+.section_seven{
+    background-image: url("section7-image.jpg");
+    background-size: cover;
+    padding-bottom: 160px;
+    margin-top: 40px;
+}
+
+.section_seven_text{
+    padding-top: 120px;
+    padding-left: 100px;
+    color: black;
+}
+
+.section_seven_text p:nth-child(1){
+    font-weight: 500;
+    
+}
+
+.section_seven_text p:nth-child(2){
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.section_seven_text p:nth-child(3){
+    padding-top: 10px;
+    font-size: 10px;
+}
+
+
